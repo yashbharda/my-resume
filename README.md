@@ -31,11 +31,10 @@ Eager to learn, contribute, and grow in a real-world development environment.
 - Core Java  
 - OOP Concepts  
 - JDBC  
-- SQL  
-- REST APIs (Basic)
+- REST APIs
 
 ### 🚀 Frameworks
-- Spring Boot (Basic)  
+- Spring Boot  
 - JPA / Hibernate (Basic)
 
 ### 🗄️ Databases
@@ -45,7 +44,6 @@ Eager to learn, contribute, and grow in a real-world development environment.
 - IntelliJ IDEA  
 - NetBeans  
 - Postman  
-- Git & GitHub  
 
 ---
 
